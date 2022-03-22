@@ -6,7 +6,8 @@ namespace Factory_Method
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initial");
+            Statistic statistic = new Statistic();
+            statistic.GlobalStatistics();
         }
     }
 }
