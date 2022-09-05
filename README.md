@@ -1,7 +1,7 @@
 **🛠 Design Patterns 🛠**
 
 - [Creational Design Patterns](#)
-	- [Factory Method](#)
+	- [Factory Method](https://github.com/Ivan-Gyoshev/design-patterns/tree/main/Design%20Patterns/Creational/Factory%20Method)
 	- [Abstract Factory](#)
 	- [Builder](#)
 	- [Prototype](#)
