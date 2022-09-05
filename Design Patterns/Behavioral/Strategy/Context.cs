@@ -12,7 +12,7 @@ namespace Strategy
 
         public Context() { }
 
-        // Usualy the context accept the strategy from the constructor but
+        // Usually the context accept the strategy from the constructor but
         // also provides a setter to change it at runtime
         public Context(ISortingStrategy strategy)
         {
